@@ -7,7 +7,7 @@ public class changeSprite : MonoBehaviour
 {
     public Sprite []sprite;
     public GameObject gameBoy;
-    public int spriteNumber =0;
+    int spriteNumber =0;
     SpriteRenderer spriteRenderer;
    
     // Start is called before the first frame update
@@ -38,18 +38,5 @@ public class changeSprite : MonoBehaviour
         
 
          
-    }
-    public void BackwardsChange()
-    {
-        
-        if(spriteNumber > 0) {
-        spriteNumber--;
-        }
-
-       else if(spriteNumber== 0){
-            spriteNumber = sprite.Length -1;
-        }
-
-
     }
 }

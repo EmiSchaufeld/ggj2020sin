@@ -14,16 +14,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/date.unity
     guid: 3786684c6aeb02548910db066678c02a
-  - enabled: 1
-    path: Assets/Scenes/titleScreen.unity
-    guid: ccff3f6eed4b10e409f4cc3cef43eff1
-  - enabled: 1
-    path: Assets/Scenes/creator.unity
-    guid: ca936b08e99313940b73b36a97873170
-  - enabled: 1
-    path: Assets/Scenes/credits.unity
-    guid: 929e6c26b80fe92408e6bea7a0d987c1
-  - enabled: 1
-    path: Assets/Scenes/Intro.unity
-    guid: b9d6139a71aae5849baecf861c3f568f
   m_configObjects: {}
